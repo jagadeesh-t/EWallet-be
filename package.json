@@ -6,7 +6,7 @@
   "keywords": [],
   "dependencies": {
     "bcryptjs": "^2.4.0",
-    "debug": "^2.2.0",
+    "debug": "^3.1.0",
     "ejs": "2.3.4",
     "express-mysql-session": "^1.2.0",
     "firebase-admin": "^5.0.0",
